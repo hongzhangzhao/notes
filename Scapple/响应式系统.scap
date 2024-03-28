@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="30CF1E1C-387C-478F-8742-8BC34A4D1167" Version="1.2">
+   <Notes>
+      <Note FontSize="12" Position="159.4,232.9" ID="0" Width="76.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>响应式系统</String>
+      </Note>
+      <Note FontSize="12" Position="448.4,251.6" ID="2" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>异步编程</String>
+         <ConnectedNoteIDs>4, 6, 13, 17</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="544.5,268.8" ID="4" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>异步编程</String>
+         <ConnectedNoteIDs>2, 5</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="650.8,248.5" ID="5" Width="66.4063">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>分时任务操作系统</String>
+         <ConnectedNoteIDs>4, 8, 12, 15</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="535.2,327.4" ID="6" Width="88.2813">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>相同时间完成更多任务</String>
+         <ConnectedNoteIDs>2, 10</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="517.2,124.3" ID="7" Width="247.656">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <Formatting>
+            <FormatRange Underline="Yes" Link="https://zhuanlan.zhihu.com/p/434361727">0,38</FormatRange>
+         </Formatting>
+         <String>https://zhuanlan.zhihu.com/p/434361727</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="751.6,246.9" ID="8" Width="90.0513">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>利用CPU资源</String>
+         <ConnectedNoteIDs>5, 9</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="875.8,228.2" ID="9" Width="117.969">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>CPU太快了，其他硬件太慢</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="657.0,349.3" ID="10" Width="88.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>并发执行任务</String>
+         <ConnectedNoteIDs>6, 11</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="792.2,357.9" ID="11" Width="81.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>逻辑上没有依赖的任务</String>
+         <ConnectedNoteIDs>10</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="718.0,300.0" ID="12" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>线程调度</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="420.3,395.4" ID="13" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>体系</String>
+         <ConnectedNoteIDs>2, 14-16</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="540.6,380.5" ID="14" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>硬件</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="537.5,427.4" ID="15" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>操作系统</String>
+         <ConnectedNoteIDs>5, 13</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="495.3,470.4" ID="16" Width="88.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>异步编程范式</String>
+         <ConnectedNoteIDs>13</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" Position="489.8,190.7" ID="17" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>参考</String>
+         <ConnectedNoteIDs>2, 7</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0, 2, 4, 8, 10, 12-17</AutoFit>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" Name="Bubble (Red)" AffectNoteBody="Yes" ID="226D4BA5-F985-4657-AFC6-87EF34104C40" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" Name="Title Text" AffectNoteBody="No" ID="AF254CCA-9774-4193-8257-02816AAE3772" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" Name="Bubble (Green)" AffectNoteBody="Yes" ID="EDD9BAED-93E4-4E17-B98C-E22D5BD21C99" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" Name="Bubble (Blue)" AffectNoteBody="Yes" ID="4A9BD30E-8FDC-4D3B-8FEA-8371BC6B681B" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" Name="Bubble (Yellow)" AffectNoteBody="Yes" ID="EBD014DE-D98B-478C-99ED-D07AE9033CD5" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" Name="Bubble (Pink)" AffectNoteBody="Yes" ID="7AA92514-C1C9-404D-9542-17BE22B3C1E4" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" Name="Red Text" AffectNoteBody="No" ID="193A76CB-FDA6-4ACE-9C65-6D4660BD733C" AffectSize="No" AffectFade="No" AffectSticky="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+   </UISettings>
+   <PrintSettings Collates="Yes" TopMargin="12.000000" PagesAcross="1" HorizontalPagination="Clip" ScaleFactor="1.000000" VerticallyCentered="Yes" PaperType="iso-a4" Orientation="Portrait" HorizontallyCentered="Yes" PaperSize="-1.000000,-1.000000" RightMargin="12.000000" BottomMargin="12.000000" VerticalPagination="Auto" LeftMargin="12.000000" PagesDown="1"/>
+</ScappleDocument>

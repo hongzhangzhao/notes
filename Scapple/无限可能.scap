@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument Version="1.2" ID="74F6010D-FBE2-4D47-81F2-30216089D591">
+   <Notes>
+      <Note FontSize="12" ID="0" Position="610.1,168.8" Width="37.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>思维</String>
+         <ConnectedNoteIDs>1-2, 67-68</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="1" Position="666.4,119.6" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>方式方法</String>
+         <ConnectedNoteIDs>0, 2, 52-53, 55, 58-59</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="2" Position="536.0,112.5" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="1" Style="Rounded"/>
+         </Appearance>
+         <String>内在动力</String>
+         <ConnectedNoteIDs>0-1, 25, 40</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="3" Position="349.2,441.5" Width="37.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>大脑</String>
+         <ConnectedNoteIDs>4, 8, 15, 28</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="4" Position="451.6,438.3" Width="87.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>神经元可塑性</String>
+         <ConnectedNoteIDs>3, 7-8, 13</ConnectedNoteIDs>
+         <PointsToNoteIDs>13</PointsToNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="5" Position="852.4,394.6" Width="50.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>旧知识</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="6" Position="826.5,454.7" Width="50.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>新知识</String>
+         <ConnectedNoteIDs>7, 17</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="7" Position="676.6,404.7" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>联系起来</String>
+         <ConnectedNoteIDs>4-6, 19</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="8" Position="412.5,396.1" Width="37.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>升级</String>
+         <ConnectedNoteIDs>3-4, 14</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="9" Position="855.5,25.9" Width="87.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>横向定位阅读</String>
+         <ConnectedNoteIDs>52</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="10" Position="126.5,436.0" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>肠胃调理</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="11" Position="873.4,710.2" Width="50.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>自己话</String>
+         <ConnectedNoteIDs>12, 35</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="12" Position="959.4,703.9" Width="112.891">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>思考、提炼、简要</String>
+         <ConnectedNoteIDs>11</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="13" Position="417.2,500.9" Width="217.181">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+         <String>大脑的神经网络可以再生长和重组，
+并生成新的结构和功能</String>
+         <ConnectedNoteIDs>4</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="14" Position="388.2,343.8" Width="87.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>增强记忆力等</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="15" Position="233.6,427.4" Width="75.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>第二大脑
+肠道神经元</String>
+         <ConnectedNoteIDs>3, 10, 16</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="16" Position="168.8,501.6" Width="75.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>感觉、直觉</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="17" Position="928.9,459.4" Width="50.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>如何学</String>
+         <ConnectedNoteIDs>6, 18</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="18" Position="1026.5,428.2" Width="166.406">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>阅读、思考（理解）、记忆</String>
+         <ConnectedNoteIDs>17</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="19" Position="720.3,511.8" Width="37.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>记忆</String>
+         <ConnectedNoteIDs>7, 20-21, 23, 33, 59</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="20" Position="878.1,507.9" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>遗忘曲线</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="21" Position="878.1,555.5" Width="100.391">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>首因、近因效应</String>
+         <ConnectedNoteIDs>19, 22</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="22" Position="1024.2,548.5" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>番茄时间</String>
+         <ConnectedNoteIDs>21</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="23" Position="780.4,613.3" Width="62.8906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>长期记忆</String>
+         <ConnectedNoteIDs>19, 24</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="24" Position="919.5,614.9" Width="112.891">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>音乐、味道、气味</String>
+         <ConnectedNoteIDs>23</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="25" Position="453.1,85.2" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>计划</String>
+         <ConnectedNoteIDs>2, 26</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="26" Position="372.7,70.4" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>日程表</String>
+         <ConnectedNoteIDs>25, 27</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="27" Position="270.3,71.1" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>代办事项</String>
+         <ConnectedNoteIDs>26</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="28" Position="222.7,572.7" Width="113.672">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>每秒接收大量信息</String>
+         <ConnectedNoteIDs>3, 29</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="29" Position="395.3,576.6" Width="151.172">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>每秒只能处理很少的信息</String>
+         <ConnectedNoteIDs>28, 30</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="30" Position="328.1,628.2" Width="151.172">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>筛选关键信息进行处理？</String>
+         <ConnectedNoteIDs>29, 31</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="31" Position="166.4,639.1" Width="126.172">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>大脑的网状激活系统</String>
+         <ConnectedNoteIDs>30, 32, 38</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="32" Position="314.1,696.9" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>提出问题</String>
+         <ConnectedNoteIDs>31, 33, 38</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="33" Position="571.1,624.3" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>问题</String>
+         <ConnectedNoteIDs>19, 32, 34-37</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="34" Position="693.8,639.9" Width="76.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>引导注意力</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="35" Position="667.2,712.5" Width="138.672">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>影响理解力、认知能力</String>
+         <ConnectedNoteIDs>11, 33</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="36" Position="603.1,707.1" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>记忆力</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="37" Position="507.0,732.1" Width="88.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>聚焦关键内容</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="38" Position="119.5,700.0" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>思考</String>
+         <ConnectedNoteIDs>31-32, 39</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="39" Position="157.0,749.3" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>推理</String>
+         <ConnectedNoteIDs>38</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="40" Position="470.3,140.7" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>习惯</String>
+         <ConnectedNoteIDs>2, 41-42</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="41" Position="410.2,208.6" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>任务拆分</String>
+         <ConnectedNoteIDs>40, 51</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="42" Position="372.7,147.7" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>养成</String>
+         <ConnectedNoteIDs>40, 43-46</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="43" Position="270.3,128.2" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>提示</String>
+         <ConnectedNoteIDs>42, 47</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="44" Position="288.3,161.8" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>渴求</String>
+         <ConnectedNoteIDs>42, 48</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="45" Position="279.7,200.8" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>反应</String>
+         <ConnectedNoteIDs>42, 49</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="46" Position="275.8,234.4" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>奖赏</String>
+         <ConnectedNoteIDs>42, 50</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="47" Position="160.2,125.8" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>房间暗</String>
+         <ConnectedNoteIDs>43</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="48" Position="182.8,161.0" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>亮一点</String>
+         <ConnectedNoteIDs>44</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="49" Position="182.8,196.9" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>开灯</String>
+         <ConnectedNoteIDs>45</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="50" Position="154.7,236.8" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>房间明亮</String>
+         <ConnectedNoteIDs>46</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="51" Position="344.5,258.6" Width="76.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>婴儿一小步</String>
+         <ConnectedNoteIDs>41</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="52" Position="779.7,74.3" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>快速阅读</String>
+         <ConnectedNoteIDs>1, 9, 62-63</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="53" Position="787.5,103.2" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>专注</String>
+         <ConnectedNoteIDs>1, 54</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="54" Position="882.8,116.5" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>意识</String>
+         <ConnectedNoteIDs>53, 56</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="55" Position="796.9,154.0" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>思维平静</String>
+         <ConnectedNoteIDs>1, 57</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="56" Position="979.7,117.2" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>光球拉回</String>
+         <ConnectedNoteIDs>54</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="57" Position="936.7,157.1" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>减少压力</String>
+         <ConnectedNoteIDs>55</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="58" Position="824.2,190.7" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>主动回忆</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="59" Position="806.3,271.1" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>记忆</String>
+         <ConnectedNoteIDs>1, 19, 60-61, 64</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="60" Position="910.2,264.9" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>故事</String>
+         <ConnectedNoteIDs>59</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="61" Position="899.2,308.6" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>图像记忆</String>
+         <ConnectedNoteIDs>59</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="62" Position="961.7,43.0" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>回读</String>
+         <ConnectedNoteIDs>52</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="63" Position="910.9,75.8" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>默读</String>
+         <ConnectedNoteIDs>52</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="64" Position="909.4,357.1" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>联想</String>
+         <ConnectedNoteIDs>59, 65-66</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="65" Position="1014.8,323.5" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>职业</String>
+         <ConnectedNoteIDs>64</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="66" Position="1025.0,367.2" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>位置</String>
+         <ConnectedNoteIDs>64</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="67" Position="561.7,219.6" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>角度</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note FontSize="12" ID="68" Position="659.4,215.7" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>方式</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <AutoFit>0-12, 14-17, 19-68</AutoFit>
+   <NoteStyles>
+      <Style AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" AffectTextColor="No" ID="31872CCE-7C15-4649-B37C-04DDA4178120" AffectFontStyle="No" Name="Bubble (Green)" AffectSize="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" AffectTextColor="No" ID="71EAA313-5279-4A81-974F-082E5D157845" AffectFontStyle="No" Name="Bubble (Pink)" AffectSize="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" AffectTextColor="No" ID="A9471813-36C7-4CB5-8562-B1161B4678ED" AffectFontStyle="No" Name="Bubble (Blue)" AffectSize="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" AffectTextColor="No" ID="363FF7A2-2F28-4693-AD7D-DE4062828702" AffectFontStyle="No" Name="Bubble (Red)" AffectSize="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="No" AffectAlignment="No" AffectTextColor="Yes" ID="10B194D9-00E5-4C94-8ED0-EE2F5040CE62" AffectFontStyle="No" Name="Red Text" AffectSize="No" AffectSticky="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="Yes" AffectAlignment="No" AffectTextColor="No" ID="18051630-23C5-453A-B061-7CF995CB51D3" AffectFontStyle="No" Name="Bubble (Yellow)" AffectSize="No" AffectSticky="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+      <Style AffectFade="No" AffectNoteBody="No" AffectAlignment="Yes" AffectTextColor="No" ID="250C6672-DB0F-4F10-BF8F-3E0087B0EDBA" AffectFontStyle="Yes" Name="Title Text" AffectSize="No" AffectSticky="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+   </UISettings>
+   <PrintSettings HorizontallyCentered="Yes" VerticallyCentered="Yes" TopMargin="12.000000" Orientation="Portrait" VerticalPagination="Auto" ScaleFactor="1.000000" PaperSize="-1.000000,-1.000000" RightMargin="12.000000" HorizontalPagination="Clip" Collates="Yes" BottomMargin="12.000000" PagesDown="1" LeftMargin="12.000000" PaperType="iso-a4" PagesAcross="1"/>
+</ScappleDocument>
