@@ -4,7 +4,7 @@
 > https://blog.csdn.net/heifan2014/article/details/78824248
 
 
-# 编辑环境变量
+# 1 编辑环境变量
 
 
 ```
@@ -19,7 +19,7 @@ cd "$_T"
 ```
 
 
-# 修改注册表
+# 2 修改注册表
 
 进入 `HKEY_CLASSES_ROOT\Directory\Background\shell`
 
