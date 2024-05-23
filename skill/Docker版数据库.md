@@ -1,7 +1,7 @@
 
 [[2024-03-20]]
 
-# MySQL
+# 1 MySQL
 
 启动 mysql
 ```
@@ -39,7 +39,7 @@ default-character-set=utf8
 default-character-set=utf8
 ```
 
-# Oracle11g
+# 2 Oracle11g
 
 启动 oracle
 ```
@@ -59,7 +59,7 @@ oracleinanutshell/oracle-xe-11g:latest
 密码： oracle
 ```
 
-# sqlserver2019
+# 3 sqlserver2019
 
 启动sqlserver，sqlserver容器内的用户不是root，所以挂载的数据目录需要赋予权限
 ```
@@ -93,7 +93,7 @@ docker cp /x/init/scan-sqlserver.sql 容器ID:/opt/scan-sqlserver.sql
 ```
 
 
-# PostgreSQL 11
+# 4 PostgreSQL 11
 
 启动postgre
 ```
@@ -112,7 +112,7 @@ postgres:11
 密码： 见 POSTGRES_PASSWORD
 ```
 
-# mongo 4.0
+# 5 mongo 4.0
 
 启动 mongo
 ```
@@ -138,7 +138,7 @@ mongo:4.4.0 mongod --auth
 密码： 见 MONGO_INITDB_ROOT_PASSWORD
 ```
 
-# Redis
+# 6 Redis
 
 启动
 ```
