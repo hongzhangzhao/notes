@@ -14,7 +14,6 @@ ES默认的标准分词器对中文是按字分的（中文不友好）。
 ## 2.1 match 查询
 
 match会将查询内容也进行分词，只有一个分词匹配就可以返回结果。（查询比较宽泛）
-
 ```json
 {
   "query": {
@@ -25,6 +24,33 @@ match会将查询内容也进行分词，只有一个分词匹配就可以返回
 }
 ```
 
+等同
+```json
+{
+  "query": {
+    "match": {
+      "title": {
+        "query": "查询内容",
+        "operator": "or"
+      }
+    }
+  }
+}
+```
+
+需要匹配到所有分词
+```json
+{
+  "query": {
+    "match": {
+      "title": {
+        "query": "查询内容",
+        "operator": "and"
+      }
+    }
+  }
+}
+```
 ## 2.2 match_phrase 查询
 
 对查询内容分词后，必须匹配所有分词，并且顺序也要一致
@@ -57,6 +83,18 @@ phrase查询太严格，分词全匹配还要保证顺序，slop就是放宽一�
 }
 ```
 
+### 2.2.2 match_phrase_prefix  查询
+
+支持最后一个词的前缀匹配
+```json
+{
+  "query": {
+    "match_phrase_prefix": {
+      "desc": "what li"
+    }
+  }
+}
+```
 
 ## 2.3 multi_match 查询
 
@@ -73,6 +111,19 @@ phrase查询太严格，分词全匹配还要保证顺序，slop就是放宽一�
 }
 ```
 
+### 2.3.1 可以使用通配符
+
+字段可以使用通配符
+```json
+{
+  "query": {
+    "multi_match": {
+      "query": "查询内容",
+      "fields": ["title", "*_name"]
+    }
+  }
+}
+```
 ## 2.4 query_string 查询
 
 query_string 对查询内容先分词，再查询
@@ -88,11 +139,9 @@ query_string 对查询内容先分词，再查询
 }
 ```
 
-
-
-
 # 3 词项查询
 
+精确查询，不分词
 ## 3.1 term 查询
 
 和match的区别是查询内容不会分词后进行匹配
@@ -154,8 +203,32 @@ fuzziness 的值表示可以允许有几个错误字母
 }
 ```
 
+## 3.4 type 查询
 
-## 3.4 range 查询
+```json
+{
+  "query": {
+    "type": {
+      "value": "computer"
+    }
+  }
+}
+```
+
+## 3.5 ids 查询
+
+```json
+{
+  "query": {
+    "ids": {
+      "type": "computer",
+      "values": ["1", "3", "5"]
+    }
+  }
+}
+```
+
+## 3.6 range 查询
 
 
 字段必须是数值类型
@@ -178,6 +251,70 @@ fuzziness 的值表示可以允许有几个错误字母
 }
 ```
 
+时间范围
+```json
+{
+  "query": {
+    "range": {
+      "字段名称": {
+        "gte": "2015-01-01",
+        "lte": "2019-12-31",
+        "format": "yyyy-MM-dd"
+      }
+    }
+  }
+}
+```
+
+## 3.7 exists 查询
+
+返回该字段，值不为空的文档
+```json
+{
+  "query": {
+    "exists": {
+      "field": "字段名称"
+    }
+  }
+}
+```
+
+## 3.8 prefix 查询
+
+```json
+{
+  "query": {
+    "prefix": {
+      "字段名称": "词前缀"
+    }
+  }
+}
+```
+
+## 3.9 wildcard 查询
+
+```json
+{
+  "query": {
+    "wildcard": {
+      "字段名称": "李永*"
+    }
+  }
+}
+```
+
+## 3.10 regexp  正则查询
+
+```json
+{
+  "query": {
+    "regexp": {
+      "postcode": "W[0-9].+"
+    }
+  }
+}
+```
+
 # 4 复合查询
 ## 4.1 bool 查询
 
@@ -185,6 +322,7 @@ fuzziness 的值表示可以允许有几个错误字母
 - must：代表且的关系，也就是必须要满足该条件
 - should：代表或的关系，代表符合该条件就可以被查出来
 - must_not：代表非的关系，也就是要求不能是符合该条件的数据才能被查出来
+- filter 和 must 一样，匹配 filter 选项下的查询条件的文档才会被返回，但是 filter 不评分，只起到过滤功能，与 must_not 相反。
 
 ```json
 {
