@@ -58,3 +58,13 @@ else
 fi
 ```
 
+- 获取父级路径
+- 获取爷爷路径
+- 获取太爷路径
+
+```sh
+dirname "$PWD"
+dirname "$(dirname "$PWD")"
+dirname "$(dirname "$(dirname "$PWD")")"
+```
+
