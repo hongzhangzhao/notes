@@ -20,5 +20,15 @@ bin/flume-ng agent -c conf -f example.conf -n z1 -Dflume.root.logger=INFO,consol
 - 一个序列化框架, 用来在sink和source间传输数据
 
 
+# 3 远程调试 agent
+
+编辑启动文件 flume-ng, 修改以下内容, 之后配置idea即可
+
+```sh
+JAVA_OPTS="-Xmx500m -Xdebug -Xrunjdwp:transport=dt_socket,address=8000,server=y,suspend=y"
+```
+
+
+
 
 

@@ -30,6 +30,8 @@
 - https://thinkany.ai/zh
 - https://chat.openai.com/  openai
 - https://www.newsminimalist.com/  ai新闻
+- https://www.toolify.ai/zh/category/ai-search-engine  综合
+- https://www.aihub.cn/tools/search/  综合
 
 ## 3.2 传统
 
