@@ -68,3 +68,30 @@ dirname "$(dirname "$PWD")"
 dirname "$(dirname "$(dirname "$PWD")")"
 ```
 
+
+- getopts说明, 在执行脚本后面需要接 xxx.sh  -a  [参数]
+- opt是输入的-a, -b, -c
+- $OPTARG是输入的[参数]值
+
+```sh
+while getopts ":a:b:c" opt;
+do
+  case $opt in
+    a)
+      echo "Option a with value '$OPTARG' was given." >&2
+      ;;
+    b)
+      echo "Option b was given." >&2
+      ;;
+    c)
+      echo "Option c was given." >&2
+      ;;
+    ?)
+      echo "Invalid option: -$OPTARG" >&2
+      exit 1
+      ;;
+  esac
+done
+```
+
+
