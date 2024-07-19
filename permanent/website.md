@@ -51,6 +51,7 @@
 - https://app.diagrams.net/  draw.io
 - https://www.suxieban.com/index.html#
 - https://www.tldraw.com/
+- https://floating-hands-whiteboard.vercel.app/  白板
 
 ## 4.2 其它
 
@@ -107,6 +108,8 @@
 - https://soupian.pro/  搜片
 - https://hive.blog/  新闻
 - https://solo.xin/  独立开发者社区
+- https://wordsea.xyz/  词典
+- https://daily-blog.chlinlearn.top/blogs/1  技术博客
 
 
 # 5 资源
