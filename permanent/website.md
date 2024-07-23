@@ -110,6 +110,14 @@
 - https://solo.xin/  独立开发者社区
 - https://wordsea.xyz/  词典
 - https://daily-blog.chlinlearn.top/blogs/1  技术博客
+- https://www.producthunt.com/ 热门软件
+- https://github.com/Ceelog/DictionaryByGPT4  ai词典, 单词书
+- https://blog.xinshijiededa.men/  博客
+- https://informedainews.com/zh-Hans/  ai新闻
+- https://math.bot/zh-CN  ai 解数学题
+- https://gpt4o.so/zh-CN   免费ChatGPT4
+- https://jobincorner.com/  招聘网站
+- https://oldwestenglish.github.io/grammar/#/  英语语法学习
 
 
 # 5 资源
