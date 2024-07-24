@@ -118,6 +118,10 @@
 - https://gpt4o.so/zh-CN   免费ChatGPT4
 - https://jobincorner.com/  招聘网站
 - https://oldwestenglish.github.io/grammar/#/  英语语法学习
+- https://github.com/imputnet/cobalt  视频网址下载
+- https://github.com/JiHong88/suneditor   编辑器
+- https://github.com/Anxcye/anx-reader  读书软件
+- https://www.quetta.net/zh/  隐私手机浏览器
 
 
 # 5 资源
