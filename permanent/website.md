@@ -14,6 +14,9 @@
 - https://www.eevpn.com/#/login  eevpn
 - https://www.mofast.cloud/#/login
 - https://aijichang.org/download/  工具下载
+- https://www.ffq.la/   机场导航
+- https://52.mk/  机场导航
+- https://52bp.org/airport.html
 
 
 # 3 搜索
@@ -122,6 +125,10 @@
 - https://github.com/JiHong88/suneditor   编辑器
 - https://github.com/Anxcye/anx-reader  读书软件
 - https://www.quetta.net/zh/  隐私手机浏览器
+- https://github.com/geek-fun/dockit  ES桌面客户端
+- https://github.com/ByteByteGoHq/system-design-101  技术概念图
+- https://svgl.app/  logo搜索
+- https://www.supertechfans.com/cn  HackerNews摘要
 
 
 # 5 资源
