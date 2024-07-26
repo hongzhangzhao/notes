@@ -129,6 +129,12 @@
 - https://github.com/ByteByteGoHq/system-design-101  技术概念图
 - https://svgl.app/  logo搜索
 - https://www.supertechfans.com/cn  HackerNews摘要
+- https://github.com/johnfactotum/foliate  linux系统epub阅读器
+- https://www.fastdownload.io/  视频网址下载Youtube
+- https://github.com/askaitools/askaitools-community-edition  AI应用搜索
+- https://ai-emoji.bettergogo.com/  Emoji搜索引擎
+- https://gallery.selfboot.cn/algorithms/  算法可视化
+- https://devdocs.io/  WEB标准
 
 
 # 5 资源
