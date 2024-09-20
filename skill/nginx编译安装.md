@@ -1,6 +1,6 @@
 
 
-```
+```shell
 mkdir -p /usr/local/nginx
 cd /usr/local/nginx
 

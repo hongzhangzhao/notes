@@ -55,6 +55,7 @@
 - https://www.suxieban.com/index.html#
 - https://www.tldraw.com/
 - https://floating-hands-whiteboard.vercel.app/  白板
+- https://excalidraw.com/  画板
 
 ## 4.2 其它
 
@@ -75,6 +76,7 @@
 - https://www.jq22.com/textDifference 文本比较
 - https://www.apkmirror.com/ 安卓下载
 - https://cn.uptodown.com/android 安卓下载
+- https://www.appurse.com/  安卓下载
 - https://51.ruyo.net/test/MobaXterm-Pro-License.html# mobaxterm激活码
 - https://www.namedbyai.com/  ai取名字
 - https://workout.lol/  健身
@@ -135,6 +137,7 @@
 - https://ai-emoji.bettergogo.com/  Emoji搜索引擎
 - https://gallery.selfboot.cn/algorithms/  算法可视化
 - https://devdocs.io/  WEB标准
+- https://www.ip.network/ IP 地域信息
 
 
 # 5 资源
@@ -144,9 +147,10 @@
 - https://www.book123.info/ 无名图书
 - https://bookfere.com/ 书伴
 - https://www.findbooks.info/
-- https://es.annas-archive.org/
-- https://www.readfree.net/bbs/  网上读书园地
-- https://zh.singlelogin.re/  Z-library
+- [anna](https://es.annas-archive.org/)
+- [网上读书园地](https://www.readfree.net/bbs/)
+- [Z-library](https://zh.singlelogin.re/)
+- [维京小屋](https://vikingcabin.com/ "维京小屋")
 
 ## 5.2 音乐
 

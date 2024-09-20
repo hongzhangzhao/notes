@@ -1,0 +1,61 @@
+
+
+- another redis desktop manager redis客户端 : https://github.com/qishibo/AnotherRedisDesktopManager
+- offset explorer (kafka gui)
+- dbeaver (database gui)
+- tabby (ssh client)
+- obsidian (笔记)
+- flomo (笔记)
+- koodo (阅读器)
+- WinSCP (FTP)
+- GoldenDict (词典)
+- mpv 媒体播放器: https://mpv.io/ 
+- ZeroTier 网络穿透
+- WizTree 和 SpaceSniffer  (大文件搜索)
+- Free DM、NDM（Neat Download Manager）、IDM (下载工具)
+- miniconda python:  https://repo.anaconda.com/miniconda/ 
+- Docker-OSX: docker中运行macos
+- haystack: LLM开发框架
+- verso : rust实现的浏览器
+- penpot: 设计软件
+- DiceDB: redis替代品
+- freeCodeCamp: 免费学习编程
+- hello-algo: 算法教程 https://github.com/krahets/hello-algo 
+- storm - LLM写完整报告: https://github.com/stanford-oval/storm 
+- ImHex - 十六进制编辑器: https://github.com/WerWolv/ImHex 
+- HowToCook - 程序员在家做饭方法指南: https://github.com/Anduin2017/HowToCook 
+- winutil - Win11实用工具: https://github.com/ChrisTitusTech/winutil 
+- marker - PDF转markdown: https://github.com/VikParuchuri/marker 
+- syncthing - 文件同步: https://github.com/syncthing/syncthing 
+- 书籍: https://github.com/it-ebooks-0 
+- EasySpider - 可视爬虫: https://github.com/NaiboWang/EasySpider 
+- LLaMA-Factory - 微调工具: https://github.com/hiyouga/LLaMA-Factory 
+- open-webui - LLM的Web UI: https://github.com/open-webui/open-webui 
+- Awesome-Chinese-LLM - 中文LLM资料: https://github.com/HqWu-HITCS/Awesome-Chinese-LLM 
+- coding-interview-university - 程序员学习计划: https://github.com/jwasham/coding-interview-university 
+- llm.c - 手搓大模型: https://github.com/karpathy/llm.c 
+- cs-self-learning - 计算机自学指南: https://github.com/PKUFlyingPig/cs-self-learning 
+- valkey - Redis 替品: https://github.com/valkey-io/valkey 
+- MediaCrawler - 爬虫: https://github.com/NanmiCoder/MediaCrawler 
+- OpenGFW - 开源GFW: https://github.com/apernet/OpenGFW 
+- windows - Windows的Docker容器: https://github.com/dockur/windows 
+- Microsoft-Activation-Scripts - 激活工具: https://github.com/massgravel/Microsoft-Activation-Scripts 
+- campus-imaotai - 抢茅台: https://github.com/oddfar/campus-imaotai 
+- memos 笔记软件
+- zed  代码编辑器: https://github.com/zed-industries/zed 
+- LLMs-from-scratch- 从头开始构建大型语言模型: https://github.com/rasbt/LLMs-from-scratch 
+- my-tv - 电视直播软件: https://github.com/lizongying/my-tv 
+- rustdesk - 远程桌面工具: https://github.com/rustdesk/rustdesk 
+- everyone-can-use-english - 人人都能用英语: https://github.com/xiaolai/everyone-can-use-english 
+- gateway - 极速 AI 网关: https://github.com/Portkey-AI/gateway 
+- llm-course - 大语言模型课程: https://github.com/mlabonne/llm-course 
+- Umi-OCR - 离线OCR软件: https://github.com/hiroi-sora/Umi-OCR 
+- movie-web - 电影聚合网站: https://github.com/movie-web/movie-web 
+- CV - 适合打印的简约简历: https://github.com/BartoszJarocki/cv 
+- system-design-primer - 系统架构设计: https://github.com/donnemartin/system-design-primer 
+- Stirling-PDF 处理PDF文件: https://github.com/Frooodle/Stirling-PDF 
+- Reactive-Resume 简历生成: https://github.com/AmruthPillai/Reactive-Resume 
+- Project Based Learning 学习方法: https://github.com/practical-tutorials/project-based-learning
+- 离线翻译: https://github.com/argosopentech/argos-translate
+- 手绘风格的画图工具: https://konty.app/
+
