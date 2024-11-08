@@ -9,8 +9,8 @@
 # 2 机场
 
 
-- https://xn--4gq62f52gdss.ink/#/login  一元
 - http://yongchutafei.com/  taffy
+- https://tafei.top/#/  taffy
 - https://www.eevpn.com/#/login  eevpn
 - https://www.mofast.cloud/#/login
 - https://aijichang.org/download/  工具下载
@@ -23,188 +23,153 @@
 
 ## 3.1 AI
 
-- https://www.phind.com/search?home=true
-- https://devv.ai/
-- https://kimi.moonshot.cn/  kimi
-- https://www.perplexity.ai/
-- https://gemini.google.com/app  google
-- https://tongyi.aliyun.com/qianwen/  通义千问
-- https://metaso.cn/  秘塔
-- https://thinkany.ai/zh
-- https://chat.openai.com/  openai
-- https://www.newsminimalist.com/  ai新闻
-- https://www.toolify.ai/zh/category/ai-search-engine  综合
-- https://www.aihub.cn/tools/search/  综合
+- [phind](https://www.phind.com/search?home=true)
+- [devv](https://devv.ai/)
+- [kimi](https://kimi.moonshot.cn/)
+- [perplexity](https://www.perplexity.ai/)
+- [通义千问](https://tongyi.aliyun.com/qianwen/)
+- [openai](https://chat.openai.com/)
+- [AI工具1](https://www.toolify.ai/zh/category/ai-search-engine)
+- [AI工具2](https://www.aihub.cn/tools/search/)
 
 ## 3.2 传统
 
-- https://duckduckgo.com/
-- https://www.google.com/
-- https://zh.wikihow.com/  万事指南
-- https://www.quora.com/  国外知乎
-
-# 4 工具
+- [duckduckgo](https://duckduckgo.com/)
 
 
-## 4.1 画图
+# 4 资讯
+
+- [ai新闻](https://www.newsminimalist.com/)
+- [科技新闻-今日三句半](https://www.threenhalf.com/)
+- [新闻博客-hive](https://hive.blog/)
+- [ai新闻-知闻](https://informedainews.com/zh-Hans/)
+- [万事指南-wikiHow](https://zh.wikihow.com/)
+- [国外知乎-quora](https://www.quora.com/)
+- [HackerNews摘要](https://www.supertechfans.com/cn)
+- [黑客新闻](https://zeli.app/zh)
+
+
+# 5 画图工具
 
 - https://webdemo.myscript.com/  可以识别手写公式
-- https://www.processon.com/diagrams  ProcessOn
-- https://modao.cc/embed/auth_box?type=signin  墨刀
 - https://app.diagrams.net/  draw.io
 - https://www.suxieban.com/index.html#
 - https://www.tldraw.com/
 - https://floating-hands-whiteboard.vercel.app/  白板
 - https://excalidraw.com/  画板
+- [手绘风格的画图工具](https://konty.app/)
+- [3D架构图绘制](https://icraft.gantcloud.com/zh-CN)
 
-## 4.2 其它
+# 6 其它工具
 
-- https://www.bejson.com/explore/index_new/  json格式化
-- https://www.bejson.com/  json格式化
-- https://tool.lu/hexconvert/  进制转换
-- http://www.javadecompilers.com/  java反编译
-- https://www.alltoall.net/  pdf转换
-- https://pdfbear.com/ pdf转换
-- https://mvnrepository.com/ maven仓库
-- https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=Lenovo%20Legion%20R9000P%202021H  拯救者驱动
-- https://ipw.cn/ ip地址查询
-- http://www.atoolbox.net/Tool.php?Id=921 随机密码生成
-- https://www.iconfont.cn/ 图标icon
-- https://web.baimiaoapp.com/ 图片转文字
-- https://bcad.info/  pdf转换
-- http://www.lsjgcx.com/ 历史价格查询
-- https://www.jq22.com/textDifference 文本比较
-- https://www.apkmirror.com/ 安卓下载
-- https://cn.uptodown.com/android 安卓下载
-- https://www.appurse.com/  安卓下载
-- https://51.ruyo.net/test/MobaXterm-Pro-License.html# mobaxterm激活码
-- https://www.namedbyai.com/  ai取名字
-- https://workout.lol/  健身
-- https://blog.idejihuo.com/  IDE激活
-- https://bukesci.com/  学术
-- https://www.sign.plus/zh/online-signature-generator 签名生成
-- https://whatismyipaddress.com/  ip地址查询
-- https://scamalytics.com/  ip地址查询
-- https://start.aliyun.com/  springboot在线创建
-- https://start.spring.io/  springboot在线创建
-- https://www.designcap.com/cn/chart/column.html  图表生成
-- https://graphmaker.imageonline.co/linechart-cn.php  图表生成
-- https://charts.livegap.com/?lan=zh  图表生成
-- https://github.com/zhbhun/idify  创建身份证照片
-- https://github.com/pot-app/pot-desktop  翻译软件
-- https://searchemoji.app/zh-hans  Emoji图标
-- https://www.azul.com/downloads/?version=java-15-mts&os=windows&architecture=x86-64-bit&package=jre#download-openjdk  java开源
-- https://www.npmjs.com/  npm库
-- https://suijimimashengcheng.bmcx.com/  密码随机生成
-- https://1password.com/zh-cn/password-generator/  密码随机生成
-- https://tool.chinaz.com/tools/randompwd/  密码随机生成
-- https://repo.openeuler.org/  欧拉rpm下载
-- https://crashcourse.club/category  Crash Course 科普视频
-- https://zhuanlan.zhihu.com/p/380614384  虚拟机翻墙
-- https://www.allhistory.com/  历史
-- https://www.reddit.com/ reddit
-- https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/  清华镜像
-- https://github.com/v2net/ios?tab=readme-ov-file  苹果共享账号
-- https://10wallpaper.com/  壁纸
-- https://www.dbbqb.com/  表情包
-- https://downloads.freemdict.com/  词典下载
-- https://www.qdm66.com/  动漫在线
-- https://dyxs31.com/ 电影先生
-- https://soupian.pro/  搜片
-- https://hive.blog/  新闻
-- https://solo.xin/  独立开发者社区
-- https://wordsea.xyz/  词典
-- https://daily-blog.chlinlearn.top/blogs/1  技术博客
-- https://www.producthunt.com/ 热门软件
-- https://github.com/Ceelog/DictionaryByGPT4  ai词典, 单词书
-- https://blog.xinshijiededa.men/  博客
-- https://informedainews.com/zh-Hans/  ai新闻
-- https://math.bot/zh-CN  ai 解数学题
-- https://gpt4o.so/zh-CN   免费ChatGPT4
-- https://jobincorner.com/  招聘网站
-- https://oldwestenglish.github.io/grammar/#/  英语语法学习
-- https://github.com/imputnet/cobalt  视频网址下载
-- https://github.com/JiHong88/suneditor   编辑器
-- https://github.com/Anxcye/anx-reader  读书软件
-- https://www.quetta.net/zh/  隐私手机浏览器
-- https://github.com/geek-fun/dockit  ES桌面客户端
-- https://github.com/ByteByteGoHq/system-design-101  技术概念图
-- https://svgl.app/  logo搜索
-- https://www.supertechfans.com/cn  HackerNews摘要
-- https://github.com/johnfactotum/foliate  linux系统epub阅读器
-- https://www.fastdownload.io/  视频网址下载Youtube
-- https://github.com/askaitools/askaitools-community-edition  AI应用搜索
-- https://ai-emoji.bettergogo.com/  Emoji搜索引擎
-- https://gallery.selfboot.cn/algorithms/  算法可视化
-- https://devdocs.io/  WEB标准
-- https://www.ip.network/ IP 地域信息
+- [热门软件](https://www.producthunt.com/)
+- [java反编译](http://www.javadecompilers.com/)
+- [pdf转换](https://www.alltoall.net/)
+- [pdf转换](https://pdfbear.com/)
+- [pdf转换](https://bcad.info/)
+- [maven仓库](https://mvnrepository.com/)
+- [拯救者驱动](https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=Lenovo%20Legion%20R9000P%202021H)
+- [ip地址查询](https://ipw.cn/ )
+- [ip地址查询](https://whatismyipaddress.com/)
+- [ip地址查询](https://scamalytics.com/)
+- [IP地域信息](https://www.ip.network/)
+- [图片转文字](https://web.baimiaoapp.com/)
+- [京东历史价格查询](http://www.lsjgcx.com/)
+- [文本比较](https://www.jq22.com/textDifference)
+- [安卓APP下载-apkmirror](https://www.apkmirror.com/)
+- [安卓APP下载-uptodown](https://cn.uptodown.com/android)
+- [AI起名](https://www.namedbyai.com/)
+- [健身](https://workout.lol/)
+- [IDE激活](https://blog.idejihuo.com/)
+- [手写签名生成](https://www.sign.plus/zh/online-signature-generator)
+- [springboot在线创建](https://start.aliyun.com/)
+- [springboot在线创建](https://start.spring.io/)
+- [图表生成](https://www.designcap.com/cn/chart/column.html)
+- [图表生成](https://graphmaker.imageonline.co/linechart-cn.php)
+- [图表生成](https://charts.livegap.com/?lan=zh)
+- [创建身份证照片](https://github.com/zhbhun/idify)
+- [翻译软件](https://github.com/pot-app/pot-desktop)
+- [npm库](https://www.npmjs.com/)
+- [Crash Course 科普视频](https://thecrashcourse.com)
+- [Crash Course 字幕组](https://crashcourse.club/category)
+- [全历史](https://www.allhistory.com/)
+- [苹果共享账号](https://github.com/v2net/ios?tab=readme-ov-file)
+- [词典下载1](https://downloads.freemdict.com/)
+- [词典下载2](https://wordsea.xyz/)
+- [动漫在线](https://www.qdm66.com/)
+- [技术博客](https://daily-blog.chlinlearn.top/) 
+- [欧拉rpm下载](https://repo.openeuler.org/)
+- [个人博客](https://blog.xinshijiededa.men/)
+- [ai 解数学题](https://math.bot/zh-CN)
+- [免费ChatGPT4](https://gpt4o.so/zh-CN)
+- [招聘网站](https://jobincorner.com/)
+- [视频下载](https://github.com/imputnet/cobalt)
+- [Web编辑器](https://github.com/JiHong88/suneditor)
+- [ES桌面客户端](https://github.com/geek-fun/dockit)
+- [技术设计图](https://github.com/ByteByteGoHq/system-design-101)
+- [logo搜索](https://svgl.app/)
+- [linux系统epub阅读器](https://github.com/johnfactotum/foliate)
+- [视频网址下载Youtube](https://www.fastdownload.io/)
+- [AI应用搜索](https://github.com/askaitools/askaitools-community-edition)
+- [Emoji搜索引擎](https://ai-emoji.bettergogo.com/)
+- [Emoji图标](https://searchemoji.app/zh-hans)
+- [icon图标](https://www.iconfont.cn/)
+- [壁纸](https://10wallpaper.com/)
+- [表情包](https://www.dbbqb.com/)
+- [算法可视化](https://gallery.selfboot.cn/algorithms/)
+- [WEB标准](https://devdocs.io/)
+- [简历生成](https://github.com/AmruthPillai/Reactive-Resume )
+- [证件照制作1](https://photo4you.win/)
+- [证件照制作2](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+- [文章转学习笔记](https://notebooklm.google/)
+- [PPT生成](https://aipptmaker.ai/cn)
+- [域名解析结果查询](https://dns.surf/)
 
 
-# 5 资源
 
-## 5.1 书籍
 
-- https://www.book123.info/ 无名图书
-- https://bookfere.com/ 书伴
-- https://www.findbooks.info/
-- [anna](https://es.annas-archive.org/)
+
+# 7 书籍
+
+- [无名图书](https://www.book123.info/)
+- [书伴](https://bookfere.com/)
+- [findbooks 书籍搜索](https://www.findbooks.info/)
+- [anna 书籍搜索](https://es.annas-archive.org/)
 - [网上读书园地](https://www.readfree.net/bbs/)
 - [Z-library](https://zh.singlelogin.re/)
 - [维京小屋](https://vikingcabin.com/ "维京小屋")
 
-## 5.2 音乐
+# 8 音乐
 
-- http://music.y444.cn/#/
-- https://freemp3cloud.com/
-- https://www.gequbao.com/
-- https://www.hifini.com/  可用
-- https://www.musicenc.com/
-- https://github.com/JessYan0913/pictode
+- [freemp3](https://freemp3cloud.com/)
+- [hifini](https://www.hifini.com/)
 
 
-## 5.3 英语
+# 9 英语
 
 - https://qwerty.kaiyi.cool/  背单词
 - https://www.etymonline.com/cn 词源
 - https://www.dicts.cn/ 词根词缀字典
 - https://www.quword.com/root/  词根词缀
 - https://www.xxenglish.com/  词根词缀
-- https://www.deepl.com/translator  deepl翻译
+- [英语语法学习](https://oldwestenglish.github.io/grammar/#/)
+- [离线翻译](https://github.com/argosopentech/argos-translate)
+- [chrome 翻译插件](https://github.com/wa008/PopTranslate)
+- [词悦-单词APP](https://github.com/mumu-lhl/Ciyue)
 
 
-## 5.4 数学
+# 10 课程
 
-- https://www.khanacademy.org/math  可汗
-- https://zhuanlan.zhihu.com/p/590965756
-- https://m.fx361.com/news/2021/0809/8701806.html
+- [计算机科学自学课程](https://github.com/ForrestKnight/open-source-cs)
 
 
+# 11 大模型
 
-# 6 大模型
-
-- https://huggingface.co/
-- https://hf-mirror.com/
-- https://www.modelscope.cn/home  魔塔
-- https://github.com/eosphoros-ai/DB-GPT
-- https://github.com/datawhalechina  教程
-- https://github.com/ArtificialZeng/Qwen-Tuning  微调丹炉
-- https://qwen.readthedocs.io/en/latest/training/SFT/example.html
-- https://github.com/ssbuild/qwen_finetuning  微调丹炉
-- https://github.com/KMnO4-zx/huanhuan-chat  数据集
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [huggingface](https://huggingface.co/)
+- [huggingface 镜像站](https://hf-mirror.com/)
+- [魔塔](https://www.modelscope.cn/home)
+- [教程](https://github.com/datawhalechina)
+- [微调丹炉](https://github.com/ArtificialZeng/Qwen-Tuning)
+- [微调丹炉](https://github.com/ssbuild/qwen_finetuning)
+- [数据集](https://github.com/KMnO4-zx/huanhuan-chat)
 

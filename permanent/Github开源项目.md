@@ -45,7 +45,6 @@
 - zed  代码编辑器: https://github.com/zed-industries/zed 
 - LLMs-from-scratch- 从头开始构建大型语言模型: https://github.com/rasbt/LLMs-from-scratch 
 - my-tv - 电视直播软件: https://github.com/lizongying/my-tv 
-- rustdesk - 远程桌面工具: https://github.com/rustdesk/rustdesk 
 - everyone-can-use-english - 人人都能用英语: https://github.com/xiaolai/everyone-can-use-english 
 - gateway - 极速 AI 网关: https://github.com/Portkey-AI/gateway 
 - llm-course - 大语言模型课程: https://github.com/mlabonne/llm-course 
@@ -54,8 +53,9 @@
 - CV - 适合打印的简约简历: https://github.com/BartoszJarocki/cv 
 - system-design-primer - 系统架构设计: https://github.com/donnemartin/system-design-primer 
 - Stirling-PDF 处理PDF文件: https://github.com/Frooodle/Stirling-PDF 
-- Reactive-Resume 简历生成: https://github.com/AmruthPillai/Reactive-Resume 
 - Project Based Learning 学习方法: https://github.com/practical-tutorials/project-based-learning
-- 离线翻译: https://github.com/argosopentech/argos-translate
-- 手绘风格的画图工具: https://konty.app/
+
+
+
+
 
