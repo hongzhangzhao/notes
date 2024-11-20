@@ -124,8 +124,7 @@
 - [文章转学习笔记](https://notebooklm.google/)
 - [PPT生成](https://aipptmaker.ai/cn)
 - [域名解析结果查询](https://dns.surf/)
-
-
+- [md to pdf](https://md2pdf.netlify.app/)
 
 
 

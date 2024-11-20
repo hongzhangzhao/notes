@@ -54,8 +54,6 @@
 - system-design-primer - 系统架构设计: https://github.com/donnemartin/system-design-primer 
 - Stirling-PDF 处理PDF文件: https://github.com/Frooodle/Stirling-PDF 
 - Project Based Learning 学习方法: https://github.com/practical-tutorials/project-based-learning
-
-
-
-
+- 系统设计面试指南: https://learning-guide.gitbook.io/system-design-interview
+- 身份认证, 授权相关: https://auth.wiki/
 

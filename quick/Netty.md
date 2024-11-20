@@ -45,6 +45,9 @@ String hexString = "68656c6c6f"; // 代表 "hello"
 // 将16进制字符串转换为字节数组
 byte[] bytes = ByteBufUtil.decodeHexDump(hexString);
 
+// byte[] 转字符转
+System.out.println(new String(bytes, CharsetUtil.UTF_8));
+
 // 创建ByteBuf
 ByteBuf byteBuf = Unpooled.wrappedBuffer(bytes);
 
