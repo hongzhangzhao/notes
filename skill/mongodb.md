@@ -35,3 +35,10 @@ db.表名.insertOne({ name: "John", age: "18", sex: "man" })
 - db.version()  # 查看版本
 - db.表名.find().limit(5)  # 查询表数据
 
+
+# 4 导入数据
+
+导入命令
+```bash
+mongoimport --host 127.0.0.1 --port 27018 --username 用户名 --db 库名 --collection 表名 --file 要导入的文件 --jsonArray
+```

@@ -125,6 +125,8 @@
 - [PPT生成](https://aipptmaker.ai/cn)
 - [域名解析结果查询](https://dns.surf/)
 - [md to pdf](https://md2pdf.netlify.app/)
+- [一组短文，介绍 Web 应用相关的用户认证知识。跟充满术语的加密学文章不一样，这组文章简明好懂。](https://thecopenhagenbook.com/)
+- [duck duck go 免费ai聊天](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 
 
 
