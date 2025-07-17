@@ -1,0 +1,20 @@
+- 入门教程
+	- https://github.com/0voice/cpp_new_features/blob/main/C%2B%2B%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%8841%E8%AF%BE%E6%97%B6%EF%BC%89%20-%20%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%A7%E5%AD%A6.md
+	- https://github.com/AnkerLeng/Cpp-0-1-Resource/blob/master/%E7%AC%AC1%E9%98%B6%E6%AE%B5C%2B%2B%20%E5%8C%A0%E5%BF%83%E4%B9%8B%E4%BD%9C%20%E4%BB%8E0%E5%88%B01%E5%85%A5%E9%97%A8/C%2B%2B%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E8%AE%B2%E4%B9%89/C%2B%2B%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8.md
+- 练手项目
+	- https://github.com/0voice/introduce_c-cpp_manual?tab=readme-ov-file
+	- 项目实验
+		- MyTinySTL
+			- 项目编译
+				- 进入项目目录下创建一个build目录
+				- 进入build目录下，执行Cmake命令进行构建 `cmake -G "MinGW Makefiles" ..` （这个命令偶尔会出错，再试试就好了）
+				- 继续在build目录下执行 `mingw32-make`
+				- 编译完成后会在项目根路径下生成bin目录
+- windows安装C++编译器（mingw）
+	- 下载地址： https://github.com/niXman/mingw-builds-binaries
+	- 版本选择： x86_64-xxx-posix-seh-ucrt-xxx.7z
+	- 配置环境变量
+	- 验证安装： gcc -v 或 g++ -v
+- 安装Cmake
+	- 下载地址： https://github.com/Kitware/CMake
+	- 解压后配置环境变量

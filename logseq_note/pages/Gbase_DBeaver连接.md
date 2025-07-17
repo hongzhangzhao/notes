@@ -1,0 +1,7 @@
+- Gbase DBeaver 连接
+	- 下载驱动
+		- gbase-connector-java-8.3.81.53-build55.5.7-bin_min_mix.jar
+	- 连接信息配置
+		- 类名: com.gbase.jdbc.Driver
+		- URL: jdbc:gbase://{host}:{port}/{database}
+		- 默认端口: 5258

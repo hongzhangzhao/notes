@@ -1,0 +1,8 @@
+- 环境准备
+	- 安装 Flask
+		- pip install Flask
+	- 安装操作 mysql 库
+		- pip install pymysql sqlalchemy flask_sqlalchemy
+- 操作 mysql
+- 参考
+	- https://www.cnblogs.com/hhaostudy/p/15911630.html

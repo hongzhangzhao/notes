@@ -1,0 +1,4 @@
+- 地址栏输入: chrome://net-internals/#hsts
+- 找到: Delete domain security policies
+- 将域名或 IP 地址输入进去, 点击 Delete
+- 清除历史记录

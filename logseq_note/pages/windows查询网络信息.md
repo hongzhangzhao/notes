@@ -1,0 +1,5 @@
+- windows 查询网络信息
+	- 查看 ip 和 mac 映射表
+		- arp -a
+	- 查询 DNS 记录
+		- nslookup [主机名]

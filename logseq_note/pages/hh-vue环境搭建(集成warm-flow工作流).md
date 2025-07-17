@@ -1,0 +1,19 @@
+- 该项目基于 RuoYi-Vue (web框架), 并集成了 warm_flow 工作流
+- 项目部署参照 RuoYi-Vue 官方文档: https://doc.ruoyi.vip/ruoyi-vue/document/hjbs.html
+	- https://doc.ruoyi.vip/ruoyi-vue/document/hjbs.html
+- hh-vue 项目地址: [https://gitee.com/min290/hh-vue/tree/master/](https://gitee.com/min290/hh-vue/tree/master/)
+- 版本选择 warm-flow 1.6.6 版本
+- 中间件
+	- mysql 5.7
+	- redis
+- 数据初始化
+	- hh-vue/sql/ry_20240629.sql
+	- hh-vue/sql/quartz.sql
+	- hh-vue/sql/warm/warm-flow-all.sql (不包含工作流的 7 张表, 只有一个测试表)
+	- warm-flow/sql/mysql/warm-flow-all.sql (工作流的 7 张表)
+- 启动后端: hh-vue/rouyi-admin/RuoYiApplication
+- 前端 nodejs 版本选择 16
+- 安装前端依赖: `npm install --registry=https://registry.npmmirror.com`
+- 启动前端: `npm run dev`
+- 流程定义样例文件: https://gitee.com/dromara/warm-flow-test/tree/master/warm-flow-core-test/src/main/resources
+-

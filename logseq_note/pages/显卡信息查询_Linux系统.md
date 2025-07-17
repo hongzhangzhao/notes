@@ -1,0 +1,6 @@
+- 显卡信息查询
+	- 查询命令
+		- lspci -vnn | grep VGA -A 12
+		- lshw -C display
+	- 参考
+		- https://www.cnblogs.com/vcan123/p/11902213.html
