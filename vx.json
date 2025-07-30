@@ -1,0 +1,60 @@
+{
+    "created_time": "2025-07-30T08:25:31Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-07-30T08:25:35Z",
+            "id": "174",
+            "modified_time": "2025-07-30T08:25:35Z",
+            "name": "README.md",
+            "signature": "2803514289032910591",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".obsidian"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Excalidraw"
+        },
+        {
+            "name": "images"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Learn"
+        },
+        {
+            "name": "logseq_note"
+        },
+        {
+            "name": "permanent"
+        },
+        {
+            "name": "quick"
+        },
+        {
+            "name": "research"
+        },
+        {
+            "name": "skill"
+        },
+        {
+            "name": "tools"
+        },
+        {
+            "name": "数据库"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2025-07-30T08:25:31Z",
+    "signature": "795840970503083771",
+    "version": 3
+}
