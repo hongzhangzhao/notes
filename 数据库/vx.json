@@ -5,9 +5,12 @@
     "folders": [
         {
             "name": "Elasticsearch"
+        },
+        {
+            "name": "Redis"
         }
     ],
-    "id": "246",
+    "id": "250",
     "modified_time": "2025-07-30T08:25:36Z",
     "signature": "15764206595867268864",
     "version": 3
