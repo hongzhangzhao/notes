@@ -219,6 +219,7 @@ redis-server /usr/local/etc/redis/redis.conf
 
 配置文件 redis.conf
 ```
+protected-mode no
 daemonize no
 pidfile /data/redis.pid
 port 6379
