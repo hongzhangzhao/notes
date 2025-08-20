@@ -51,3 +51,25 @@ git config --global --unset https.proxy
 !空文件夹/.gitkeep
 ```
 
+## git bash 中文乱码
+
+- 换支持中文的字体
+  - 在 Git Bash 标题栏 → 右键 → Options → Text → Font
+
+- 设置 local
+
+```sh
+echo 'export LANG=zh_CN.UTF-8' >> ~/.bashrc
+echo 'export LC_ALL=zh_CN.UTF-8' >> ~/.bashrc
+source ~/.bashrc
+```
+
+- 统一 Git 的编码
+
+```sh
+git config --global core.quotepath false      # 不转义非 ASCII 字符 解决 git status 中文乱码
+git config --global gui.encoding utf-8        # GUI 工具用 UTF-8
+git config --global i18n.commitEncoding utf-8 # 提交信息编码
+git config --global i18n.logOutputEncoding utf-8
+```
+
