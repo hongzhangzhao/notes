@@ -121,4 +121,14 @@ SHOW SLAVE STATUS\G
 
 容器启动
 
-
+```sh
+docker run -d \
+--name mysql \
+--ulimit nofile=65535:65535 --ulimit nproc=65535:65535 \
+-e MYSQL_ROOT_PASSWORD=123456 \
+-e TZ=Asia/Shanghai \
+-v /root/mysql/my.cnf:/etc/mysql/conf.d/my.cnf \
+-v /root/mysql/data:/var/lib/mysql \
+-p 43306:3306 \
+mysql:5.7.44
+```
