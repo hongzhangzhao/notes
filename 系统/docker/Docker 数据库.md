@@ -1,5 +1,8 @@
 
 
+#database #docker
+
+# docker运行各种数据库
 
 # 1 MySQL
 
@@ -7,13 +10,14 @@
 ```
 docker run -d \
 --name mysql5.7 \
+--ulimit nofile=65535:65535 --ulimit nproc=65535:65535
 -e MYSQL_ROOT_PASSWORD=123456 \
 -e TZ=Asia/Shanghai \
 -v /x/my.cnf:/etc/my.cnf \
 -v /x/data:/var/lib/mysql \
 -v /x/init/:/docker-entrypoint-initdb.d/ \
--p 3309:3306 \
-mysql:5.7
+-p 3306:3306 \
+mysql:5.7.44
 ```
 docker的mysql会有占用内存过大的问题（16G），run的时候需要设置ulimits参数，配置例子是基于compose的yaml文件
 ```
