@@ -1,4 +1,6 @@
 
+#conda #python
+
 # 1 linux 安装
 
 ## 1.1 安装过程
@@ -19,6 +21,8 @@ rm -rf /miniconda3/miniconda.sh
 ## 1.2 初始化
 
 `/miniconda3/bin/conda init bash`
+
+/miniconda3/bin/conda init --all
 
 ## 1.3 base环境
 

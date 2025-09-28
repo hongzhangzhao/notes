@@ -1,4 +1,5 @@
 
+#wsl #windows
 
 # 1 安装过程
 
